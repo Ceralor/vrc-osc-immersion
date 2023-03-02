@@ -1,0 +1,3 @@
+python-osc
+pydub
+simpleaudio
